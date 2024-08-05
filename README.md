@@ -4,7 +4,13 @@ A UI Library that will knock you butt off!
 
 ## Getting Started
 
-Start developing per component in storybook with
+Requires Node.js
+
+Install dependenicies.
+
+`npm install`
+
+Start developing per component in storybook.
 
 `npm run storybook`
 
