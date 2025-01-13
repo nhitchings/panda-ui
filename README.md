@@ -6,6 +6,8 @@ A UI Library that will knock you butt off!
 
 Requires Node.js
 
+We recommend using [nvm](https://github.com/coreybutler/nvm-windows/releases)
+
 Install dependenicies.
 
 `npm install`
