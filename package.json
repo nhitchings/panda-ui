@@ -11,15 +11,15 @@
     "build-storybook": "storybook build"
   },
   "devDependencies": {
-    "@chromatic-com/storybook": "^1.6.1",
-    "@storybook/addon-essentials": "^8.2.7",
-    "@storybook/addon-links": "^8.2.7",
-    "@storybook/blocks": "^8.2.7",
-    "@storybook/test": "^8.2.7",
-    "@storybook/web-components": "^8.2.7",
-    "@storybook/web-components-vite": "^8.2.7",
-    "lit": "^3.1.4",
-    "storybook": "^8.2.7",
-    "vite": "^5.3.4"
+    "@chromatic-com/storybook": "^1.9.0",
+    "@storybook/addon-essentials": "^8.6.14",
+    "@storybook/addon-links": "^8.6.14",
+    "@storybook/blocks": "^8.6.14",
+    "@storybook/test": "^8.6.14",
+    "@storybook/web-components": "^8.6.14",
+    "@storybook/web-components-vite": "^8.6.14",
+    "lit": "^3.3.1",
+    "storybook": "^8.6.14",
+    "vite": "^5.4.19"
   }
 }
