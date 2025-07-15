@@ -1,4 +1,5 @@
 import './style.css'
+// @ts-ignore
 import pandaLogo from '/panda.svg'
 import { setupCounter } from './counter.js'
 

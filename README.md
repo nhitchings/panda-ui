@@ -10,15 +10,15 @@ We recommend using [nvm](https://github.com/coreybutler/nvm-windows/releases)
 
 Install dependenicies.
 
-`npm install`
+`pnpm install`
 
 Start developing per component in storybook.
 
-`npm run storybook`
+`pnpm storybook`
 
 Start up your local dev server
 
-`npm run dev`
+`pnpm dev`
 
 ## Tech Stack
 
